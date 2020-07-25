@@ -1,0 +1,39 @@
+#pragma once
+
+constexpr auto qdo = 262 ;
+constexpr auto sqdo = 277;
+constexpr auto qre = 294;
+constexpr auto sqre = 311;
+constexpr auto qmi = 330;
+constexpr auto qfa = 349;
+constexpr auto sqfa = 370;
+constexpr auto qso = 392;
+constexpr auto sqso = 415;
+constexpr auto qla = 440;
+constexpr auto sqla = 466;
+constexpr auto qsi = 494;
+constexpr auto doo = 523;
+constexpr auto sdo = 554;
+constexpr auto re = 578;
+constexpr auto sre = 622;
+constexpr auto mi = 659;
+constexpr auto fa = 698;
+constexpr auto sfa = 740;
+constexpr auto so = 784;
+constexpr auto sso = 831;
+constexpr auto la = 880;
+constexpr auto sla = 932;
+constexpr auto si = 988;
+constexpr auto do1 = 1046;
+constexpr auto sdo1 = 1046;
+constexpr auto re1 = 1175;
+constexpr auto sre1 = 1245;
+constexpr auto mi1 = 1318;
+constexpr auto fa1 = 1480;
+constexpr auto sfa1 = 1480;
+constexpr auto so1 = 1568;
+constexpr auto sso1 = 1661;
+constexpr auto la1 = 1760;
+constexpr auto sla1 = 1865;
+constexpr auto si1 = 1976;
+

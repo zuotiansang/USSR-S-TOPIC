@@ -1,0 +1,29 @@
+﻿  ussr.cpp
+C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\ussr.cpp(82,16): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\ussr.cpp(84,15): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\ussr.cpp(91,15): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\ussr.cpp(93,15): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\ussr.cpp(106,16): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\ussr.cpp(115,16): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\ussr.cpp(117,15): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\ussr.cpp(124,15): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\ussr.cpp(126,15): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\ussr.cpp(199,16): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\ussr.cpp(201,15): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\ussr.cpp(208,15): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\ussr.cpp(210,15): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\ussr.cpp(223,16): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\ussr.cpp(232,16): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\ussr.cpp(234,15): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\ussr.cpp(241,15): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\ussr.cpp(243,15): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\ussr.cpp(315,16): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\ussr.cpp(317,15): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\ussr.cpp(324,15): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\ussr.cpp(326,15): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\ussr.cpp(339,16): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\ussr.cpp(348,16): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\ussr.cpp(350,15): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\ussr.cpp(357,15): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\ussr.cpp(359,15): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+  ussr.vcxproj -> C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\Debug\ussr.exe
