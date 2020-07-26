@@ -1,4 +1,5 @@
-﻿  ussr.cpp
+﻿  show.cpp
+  ussr.cpp
 C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\ussr.cpp(82,16): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
 C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\ussr.cpp(84,15): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
 C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\ussr.cpp(91,15): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
@@ -26,4 +27,5 @@ C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\ussr.cpp(348,16): warning C4244:
 C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\ussr.cpp(350,15): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
 C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\ussr.cpp(357,15): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
 C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\ussr.cpp(359,15): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+  正在生成代码...
   ussr.vcxproj -> C:\Users\Boluozhanbao\Desktop\USSR'S TOPIC\ussr\Debug\ussr.exe
